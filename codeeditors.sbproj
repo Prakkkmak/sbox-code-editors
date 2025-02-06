@@ -7,7 +7,9 @@
   "IncludeSourceFiles": false,
   "Resources": null,
   "PackageReferences": [],
-  "EditorReferences": null,
+  "EditorReferences": [
+    "facepunch.sandbox"
+  ],
   "IsWhitelistDisabled": false,
   "Metadata": {}
 }
