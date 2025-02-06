@@ -1,0 +1,13 @@
+{
+  "Title": "Code Editors",
+  "Type": "library",
+  "Org": "stationlambda",
+  "Ident": "codeeditors",
+  "Schema": 1,
+  "IncludeSourceFiles": false,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "IsWhitelistDisabled": false,
+  "Metadata": {}
+}
